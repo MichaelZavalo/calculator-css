@@ -142,7 +142,7 @@ span.equal {
     border-bottom-right-radius: 18px;
 }
 
-@media all and (max-width: 410px) {
+@media all and (max-width: 450px) {
     .value {
         padding: 55px;
     }
